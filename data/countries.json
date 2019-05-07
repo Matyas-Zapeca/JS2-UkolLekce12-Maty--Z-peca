@@ -1,0 +1,46 @@
+{
+  "countries": [
+    {
+      "name": "France",
+      "code": "FRA",
+      "flag": "/images/flags/france.svg",
+      "image": "/images/france.jpg"
+    },
+    {
+      "name": "Spain",
+      "code": "ESP",
+      "flag": "/images/flags/spain.svg",
+      "image": "/images/spain.jpg"
+    },
+    {
+      "name": "Germany",
+      "code": "DEU",
+      "flag": "/images/flags/germany.svg",
+      "image": "/images/germany.jpg"
+    },
+    {
+      "name": "Italy",
+      "code": "ITA",
+      "flag": "/images/flags/italy.svg",
+      "image": "/images/italy.jpg"
+    },
+    {
+      "name": "USA",
+      "code": "USA",
+      "flag": "/images/flags/united-states-of-america.svg",
+      "image": "/images/usa.jpg"
+    },
+    {
+      "name": "China",
+      "code": "CHN",
+      "flag": "/images/flags/china.svg",
+      "image": "/images/china.jpg"
+    },
+    {
+      "name": "Russia",
+      "code": "RUS",
+      "flag": "/images/flags/russia.svg",
+      "image": "/images/russia.jpg"
+    }
+  ]
+}
