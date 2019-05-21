@@ -1,4 +1,4 @@
-# Úkol 9 - Státy vs. Chuck Norris
+# Úkol 12 - Státy vs. Chuck Norris
 
 Vytvoř stránku, která ukáže základní údaje o vybraném státu a zároveň zobrazí "fakta" o [Chucku Norrisovi](https://www.lifewire.com/best-chuck-norris-memes-4162016) spojená s touto zemí.
 
@@ -99,7 +99,7 @@ Instalace balíčku probíhá stejně jako u startovního balíčku v hodinách.
 
 ### Postup při zakládání nového projektu
 
-1. Vytvoř si na svém GitHubu nový repozitář a nějak si ho pojmenuj (např. *ukol7-pocasi*, apod.).
+1. Vytvoř si na svém GitHubu nový repozitář a nějak si ho pojmenuj (např. *ukol12-chuck*, apod.).
 2. Při vytváření repozitáře **nezaškrtávej** volbu *Initialize this repository with README**.
 3. Objeví se tvůj nový prázdný repozitář, kde máš hned na úvodní stránce několik možností. Vyber poslední z nich **Import code from another repository** - klikni na tlačítko **Import code**.
 4. Na následující obrazovce do pole **Your old repository’s clone URL** zadej `https://github.com/lrolecek/javascript2-ukol09-staty-vs-chuck-norris` a klikni na zelené tlačítko **Begin import**.
